@@ -1,0 +1,417 @@
+Deskripsi,Nominal,Verifikasi,pola data
+Pembayaran SHF,200000,SHF,noise deskripsi
+Pembayaran S    H F,200000,SHF,noise deskripsi
+Pembyaran S                                    H                        F,200000,SHF,noise deskripsi
+Pembyaran S    !@#3             H                        F,200000,SHF,noise deskripsi
+Pembayaran,200000,SHF,Tanpa deskripsi
+!23abch,200000,SHF,Tanpa deskripsi
+asd,200000,SHF,Tanpa deskripsi
+abcabcabc,200000,SHF,Tanpa deskripsi
+SHF,200000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,210000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,220000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,230000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,240000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,250000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,260000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,270000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,280000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,290000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,300000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,310000,SHF,Nominal beda deskripsi noise
+Pembayaran S ettl ement,300000,Settlement,noise deskripsi
+Pembayaran Sett lement,300000,Settlement,noise deskripsi
+Pembayaran Settle ment,300000,Settlement,noise deskripsi
+Pembayaran Settlem ent,300000,Settlement,noise deskripsi
+Pkemayaran Settlement,300000,Settlement,noise deskripsi
+Pembayaram Settlement,300000,Settlement,noise deskripsi
+Pembayaran Settleme nt,300000,Settlement,noise deskripsi
+Pembayaran Settlement,300000,Settlement,noise deskripsi
+abbcc,300000,Settlement,Tanpa deskripsi
+ab ac bc,300000,Settlement,Tanpa deskripsi
+baacab,300000,Settlement,Tanpa deskripsi
+a bacabcb,300000,Settlement,Tanpa deskripsi
+Pembyaran Settlement,310000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,320000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,330000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,340000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,350000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,360000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,370000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,380000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,390000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,400000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,410000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,420000,Settlement,Nominal beda deskripsi noise
+Pembayaran F idusia,400000,Fidusia,noise deskripsi
+Pembayaran Fiidusia,400000,Fidusia,noise deskripsi
+Pembayaran Fid usia,400000,Fidusia,noise deskripsi
+Pembayaran Fidus ia,400000,Fidusia,noise deskripsi
+abccba,400000,Fidusia,Tanpa deskripsi
+abccbaa,400000,Fidusia,Tanpa deskripsi
+abcabcc,400000,Fidusia,Tanpa deskripsi
+abcabcab,400000,Fidusia,Tanpa deskripsi
+Pembayaran Fidusia,358000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,368800,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,379600,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,390400,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,401200,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,412000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,422800,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,433600,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,444400,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,455200,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,466000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,476800,Fidusia,Nominal beda deskripsi noise
+Pembayaran Pinalty,501000,Pinalty,noise deskripsi
+Pembayaran Pinaly,501500,Pinalty,noise deskripsi
+Pembayaran Pinlty,502000,Pinalty,noise deskripsi
+Pembayaran Pina ty,502500,Pinalty,noise deskripsi
+abccba,503000,Pinalty,Tanpa deskripsi
+abccbaa,503500,Pinalty,Tanpa deskripsi
+abcabcc,504000,Pinalty,Tanpa deskripsi
+abcabcab,504500,Pinalty,Tanpa deskripsi
+Pembayaran Pinalty,470000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlaty,480000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,490000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,500000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,510000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinaly,520000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlty,530000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pina ty,540000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,550000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlaty,560000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,570000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,580000,Pinalty,Nominal beda deskripsi noise
+Pembayaran U  M K,603000,UMK,noise deskripsi
+Pembayaran UMMKK,613500,UMK,noise deskripsi
+Pembayaran UKM,624000,UMK,noise deskripsi
+Pembayaran U                M                    K,634500,UMK,noise deskripsi
+Pembayaran U   M    K,645000,UMK,Tanpa deskripsi
+Pembayaran U  M     K,655500,UMK,Tanpa deskripsi
+Pembayaran U  M   K,666000,UMK,Tanpa deskripsi
+Pembayaran U  M  K,676500,UMK,Tanpa deskripsi
+acbacb,687000,UMK,Nominal beda deskripsi benar
+abacab,697500,UMK,Nominal beda deskripsi benar
+abcabc,708000,UMK,Nominal beda deskripsi benar
+abbacc,718500,UMK,Nominal beda deskripsi benar
+Pembayaran U  M K,729000,UMK,noise deskripsi
+Pembayaran UMMKK,739500,UMK,noise deskripsi
+Pembayaran UKM,750000,UMK,noise deskripsi
+Pembayaran U                M                    K,760500,UMK,noise deskripsi
+Pembayaran U   M    K,771000,UMK,Tanpa deskripsi
+Pembayaran U  M     K,781500,UMK,Tanpa deskripsi
+Pembayaran U  M   K,792000,UMK,Tanpa deskripsi
+Pembayaran U  M  K,802500,UMK,Tanpa deskripsi
+Pembayaran SHF,100000,SHF,noise deskripsi
+Pembayaran S    H F,130000,SHF,noise deskripsi
+Pembyaran S                                    H                        F,160000,SHF,noise deskripsi
+Pembyaran S    !@#3             H                        F,190000,SHF,noise deskripsi
+Pak budi S  H   F,220000,SHF,Tanpa deskripsi
+untuk bayar s            h            ff,250000,SHF,Tanpa deskripsi
+Pak Budi SH  F,280000,SHF,Tanpa deskripsi
+Pak budi S  H   F,310000,SHF,Tanpa deskripsi
+SHF,340000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,370000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,400000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,430000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,460000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,490000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,520000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,550000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,580000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,610000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,640000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,670000,SHF,Nominal beda deskripsi noise
+Pembayaran S ettl ement,700000,Settlement,noise deskripsi
+Pembayaran Sett lement,730000,Settlement,noise deskripsi
+Pembayaran Settle ment,760000,Settlement,noise deskripsi
+Pembayaran Settlem ent,790000,Settlement,noise deskripsi
+Pkemayaran Settlement,820000,Settlement,noise deskripsi
+Pembayaram Settlement,850000,Settlement,noise deskripsi
+Pembayaran Settleme nt,880000,Settlement,noise deskripsi
+Pembayaran Settlement,910000,Settlement,noise deskripsi
+Pembyaran Settlement,940000,Settlement,Tanpa deskripsi
+Pembayaran Settlement,970000,Settlement,Tanpa deskripsi
+Pembyaran Settlement,1000000,Settlement,Tanpa deskripsi
+Pembayaran Settlement,1030000,Settlement,Tanpa deskripsi
+Pembyaran Settlement,1060000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1090000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,1120000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1150000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,1180000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1210000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,1240000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1270000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,1300000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1330000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,1360000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1390000,Settlement,Nominal beda deskripsi noise
+Pembayaran F idusia,1420000,Fidusia,noise deskripsi
+Pembayaran Fiidusia,1450000,Fidusia,noise deskripsi
+Pembayaran Fid usia,1480000,Fidusia,noise deskripsi
+Pembayaran Fidus ia,1510000,Fidusia,noise deskripsi
+Pembayaran Fidusia,1540000,Fidusia,Tanpa deskripsi
+Pembayaran Fidusiia,1570000,Fidusia,Tanpa deskripsi
+Pembayaran Fidusia,1600000,Fidusia,Tanpa deskripsi
+Pembayaran Fidusai,1630000,Fidusia,Tanpa deskripsi
+Pembayaran Fidusia,1660000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,1690000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,1720000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,1750000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,1780000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,1810000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,1840000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,1870000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,1900000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,1930000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,1960000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,1990000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Pinalty,2020000,Pinalty,noise deskripsi
+Pembayaran Pinaly,2050000,Pinalty,noise deskripsi
+Pembayaran Pinlty,2080000,Pinalty,noise deskripsi
+Pembayaran Pina ty,2110000,Pinalty,noise deskripsi
+Pembayaran Pinalty,2140000,Pinalty,Tanpa deskripsi
+Pembayaran Pinaly,2170000,Pinalty,Tanpa deskripsi
+Pembayaran Pinlty,2200000,Pinalty,Tanpa deskripsi
+Pembayaran Pina ty,2230000,Pinalty,Tanpa deskripsi
+Pembayaran Pinalty,2260000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlaty,2290000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2320000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2350000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2380000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinaly,2410000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlty,2440000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pina ty,2470000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2500000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlaty,2530000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2560000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2590000,Pinalty,Nominal beda deskripsi noise
+Pembayaran U  M K,2620000,UMK,noise deskripsi
+Pembayaran UMMKK,2650000,UMK,noise deskripsi
+Pembayaran UKM,2680000,UMK,noise deskripsi
+Pembayaran UM                    K,2710000,UMK,noise deskripsi
+Pembayaran U  M K,2740000,UMK,Tanpa deskripsi
+Pembayaran UMMKK,2770000,UMK,Tanpa deskripsi
+Pembayaran UKM,2800000,UMK,Tanpa deskripsi
+Pembayaran UM                    K,2830000,UMK,Tanpa deskripsi
+Pembayaran U  M K,2860000,UMK,Nominal beda deskripsi benar
+Pembayaran UMMKK,2890000,UMK,Nominal beda deskripsi benar
+Pembayaran UKM,2920000,UMK,Nominal beda deskripsi benar
+Pembayaran UM                    K,2950000,UMK,Nominal beda deskripsi benar
+Pembayaran U  M K,2980000,UMK,noise deskripsi
+Pembayaran UMMKK,3010000,UMK,noise deskripsi
+Pembayaran UKM,3040000,UMK,noise deskripsi
+Pembayaran UM                    K,3070000,UMK,noise deskripsi
+Pembayaran U  M K,3100000,UMK,Tanpa deskripsi
+Pembayaran UMMKK,3130000,UMK,Tanpa deskripsi
+Pembayaran UKM,3160000,UMK,Tanpa deskripsi
+Pembayaran UM                    K,3190000,UMK,Tanpa deskripsi
+Pembayaran SHF,200000,SHF,noise deskripsi
+Pembayaran S    H F,200000,SHF,noise deskripsi
+Pembyaran S                                    H                        F,200000,SHF,noise deskripsi
+Pembyaran S    !@#3             H                        F,200000,SHF,noise deskripsi
+Pembayaran,200000,SHF,Tanpa deskripsi
+!23abch,200000,SHF,Tanpa deskripsi
+asd,200000,SHF,Tanpa deskripsi
+abcabcabc,200000,SHF,Tanpa deskripsi
+SHF,200000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,210000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,220000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,230000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,240000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,250000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,260000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,270000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,280000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,290000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,300000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,310000,SHF,Nominal beda deskripsi noise
+Pembayaran S ettl ement,300000,Settlement,noise deskripsi
+Pembayaran Sett lement,300000,Settlement,noise deskripsi
+Pembayaran Settle ment,300000,Settlement,noise deskripsi
+Pembayaran Settlem ent,300000,Settlement,noise deskripsi
+Pkemayaran Settlement,300000,Settlement,noise deskripsi
+Pembayaram Settlement,300000,Settlement,noise deskripsi
+Pembayaran Settleme nt,300000,Settlement,noise deskripsi
+Pembayaran Settlement,300000,Settlement,noise deskripsi
+abbcc,300000,Settlement,Tanpa deskripsi
+ab ac bc,300000,Settlement,Tanpa deskripsi
+baacab,300000,Settlement,Tanpa deskripsi
+a bacabcb,300000,Settlement,Tanpa deskripsi
+Pembyaran Settlement,310000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,320000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,330000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,340000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,350000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,360000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,370000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,380000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,390000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,400000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,410000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,420000,Settlement,Nominal beda deskripsi noise
+Pembayaran F idusia,400000,Fidusia,noise deskripsi
+Pembayaran Fiidusia,400000,Fidusia,noise deskripsi
+Pembayaran Fid usia,400000,Fidusia,noise deskripsi
+Pembayaran Fidus ia,400000,Fidusia,noise deskripsi
+abccba,400000,Fidusia,Tanpa deskripsi
+abccbaa,400000,Fidusia,Tanpa deskripsi
+abcabcc,400000,Fidusia,Tanpa deskripsi
+abcabcab,400000,Fidusia,Tanpa deskripsi
+Pembayaran Fidusia,358000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,368800,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,379600,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,390400,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,401200,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,412000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,422800,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,433600,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,444400,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,455200,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,466000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,476800,Fidusia,Nominal beda deskripsi noise
+Pembayaran Pinalty,501000,Pinalty,noise deskripsi
+Pembayaran Pinaly,501500,Pinalty,noise deskripsi
+Pembayaran Pinlty,502000,Pinalty,noise deskripsi
+Pembayaran Pina ty,502500,Pinalty,noise deskripsi
+abccba,503000,Pinalty,Tanpa deskripsi
+abccbaa,503500,Pinalty,Tanpa deskripsi
+abcabcc,504000,Pinalty,Tanpa deskripsi
+abcabcab,504500,Pinalty,Tanpa deskripsi
+Pembayaran Pinalty,470000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlaty,480000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,490000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,500000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,510000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinaly,520000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlty,530000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pina ty,540000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,550000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlaty,560000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,570000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,580000,Pinalty,Nominal beda deskripsi noise
+Pembayaran U  M K,603000,UMK,noise deskripsi
+Pembayaran UMMKK,613500,UMK,noise deskripsi
+Pembayaran UKM,624000,UMK,noise deskripsi
+Pembayaran U                M                    K,634500,UMK,noise deskripsi
+Pembayaran U   M    K,645000,UMK,Tanpa deskripsi
+Pembayaran U  M     K,655500,UMK,Tanpa deskripsi
+Pembayaran U  M   K,666000,UMK,Tanpa deskripsi
+Pembayaran U  M  K,676500,UMK,Tanpa deskripsi
+acbacb,687000,UMK,Nominal beda deskripsi benar
+abacab,697500,UMK,Nominal beda deskripsi benar
+abcabc,708000,UMK,Nominal beda deskripsi benar
+abbacc,718500,UMK,Nominal beda deskripsi benar
+Pembayaran U  M K,729000,UMK,noise deskripsi
+Pembayaran UMMKK,739500,UMK,noise deskripsi
+Pembayaran UKM,750000,UMK,noise deskripsi
+Pembayaran U                M                    K,760500,UMK,noise deskripsi
+Pembayaran U   M    K,771000,UMK,Tanpa deskripsi
+Pembayaran U  M     K,781500,UMK,Tanpa deskripsi
+Pembayaran U  M   K,792000,UMK,Tanpa deskripsi
+Pembayaran U  M  K,802500,UMK,Tanpa deskripsi
+Pembayaran SHF,100000,SHF,noise deskripsi
+Pembayaran S    H F,130000,SHF,noise deskripsi
+Pembyaran S                                    H                        F,160000,SHF,noise deskripsi
+Pembyaran S    !@#3             H                        F,190000,SHF,noise deskripsi
+Pak budi S  H   F,220000,SHF,Tanpa deskripsi
+untuk bayar s            h            ff,250000,SHF,Tanpa deskripsi
+Pak Budi SH  F,280000,SHF,Tanpa deskripsi
+Pak budi S  H   F,310000,SHF,Tanpa deskripsi
+SHF,340000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,370000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,400000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,430000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,460000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,490000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,520000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,550000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,580000,SHF,Nominal beda deskripsi noise
+untuk bayar s            h            ff,610000,SHF,Nominal beda deskripsi noise
+Pak Budi SH  F,640000,SHF,Nominal beda deskripsi noise
+Pak budi S  H   F,670000,SHF,Nominal beda deskripsi noise
+Pembayaran S ettl ement,700000,Settlement,noise deskripsi
+Pembayaran Sett lement,730000,Settlement,noise deskripsi
+Pembayaran Settle ment,760000,Settlement,noise deskripsi
+Pembayaran Settlem ent,790000,Settlement,noise deskripsi
+Pkemayaran Settlement,820000,Settlement,noise deskripsi
+Pembayaram Settlement,850000,Settlement,noise deskripsi
+Pembayaran Settleme nt,880000,Settlement,noise deskripsi
+Pembayaran Settlement,910000,Settlement,noise deskripsi
+Pembyaran Settlement,940000,Settlement,Tanpa deskripsi
+Pembayaran Settlement,970000,Settlement,Tanpa deskripsi
+Pembyaran Settlement,1000000,Settlement,Tanpa deskripsi
+Pembayaran Settlement,1030000,Settlement,Tanpa deskripsi
+Pembyaran Settlement,1060000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1090000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,1120000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1150000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,1180000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1210000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,1240000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1270000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,1300000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1330000,Settlement,Nominal beda deskripsi noise
+Pembyaran Settlement,1360000,Settlement,Nominal beda deskripsi noise
+Pembayaran Settlement,1390000,Settlement,Nominal beda deskripsi noise
+Pembayaran F idusia,1420000,Fidusia,noise deskripsi
+Pembayaran Fiidusia,1450000,Fidusia,noise deskripsi
+Pembayaran Fid usia,1480000,Fidusia,noise deskripsi
+Pembayaran Fidus ia,1510000,Fidusia,noise deskripsi
+Pembayaran Fidusia,1540000,Fidusia,Tanpa deskripsi
+Pembayaran Fidusiia,1570000,Fidusia,Tanpa deskripsi
+Pembayaran Fidusia,1600000,Fidusia,Tanpa deskripsi
+Pembayaran Fidusai,1630000,Fidusia,Tanpa deskripsi
+Pembayaran Fidusia,1660000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,1690000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,1720000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,1750000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,1780000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,1810000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,1840000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,1870000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,1900000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusiia,1930000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusia,1960000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Fidusai,1990000,Fidusia,Nominal beda deskripsi noise
+Pembayaran Pinalty,2020000,Pinalty,noise deskripsi
+Pembayaran Pinaly,2050000,Pinalty,noise deskripsi
+Pembayaran Pinlty,2080000,Pinalty,noise deskripsi
+Pembayaran Pina ty,2110000,Pinalty,noise deskripsi
+Pembayaran Pinalty,2140000,Pinalty,Tanpa deskripsi
+Pembayaran Pinaly,2170000,Pinalty,Tanpa deskripsi
+Pembayaran Pinlty,2200000,Pinalty,Tanpa deskripsi
+Pembayaran Pina ty,2230000,Pinalty,Tanpa deskripsi
+Pembayaran Pinalty,2260000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlaty,2290000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2320000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2350000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2380000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinaly,2410000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlty,2440000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pina ty,2470000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2500000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinlaty,2530000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2560000,Pinalty,Nominal beda deskripsi noise
+Pembayaran Pinalty,2590000,Pinalty,Nominal beda deskripsi noise
+Pembayaran U  M K,2620000,UMK,noise deskripsi
+Pembayaran UMMKK,2650000,UMK,noise deskripsi
+Pembayaran UKM,2680000,UMK,noise deskripsi
+Pembayaran UM                    K,2710000,UMK,noise deskripsi
+Pembayaran U  M K,2740000,UMK,Tanpa deskripsi
+Pembayaran UMMKK,2770000,UMK,Tanpa deskripsi
+Pembayaran UKM,2800000,UMK,Tanpa deskripsi
+Pembayaran UM                    K,2830000,UMK,Tanpa deskripsi
+Pembayaran U  M K,2860000,UMK,Nominal beda deskripsi benar
+Pembayaran UMMKK,2890000,UMK,Nominal beda deskripsi benar
+Pembayaran UKM,2920000,UMK,Nominal beda deskripsi benar
+Pembayaran UM                    K,2950000,UMK,Nominal beda deskripsi benar
+Pembayaran U  M K,2980000,UMK,noise deskripsi
+Pembayaran UMMKK,3010000,UMK,noise deskripsi
+Pembayaran UKM,3040000,UMK,noise deskripsi
+Pembayaran UM                    K,3070000,UMK,noise deskripsi
+Pembayaran U  M K,3100000,UMK,Tanpa deskripsi
+Pembayaran UMMKK,3130000,UMK,Tanpa deskripsi
+Pembayaran UKM,3160000,UMK,Tanpa deskripsi
+Pembayaran UM                    K,3190000,UMK,Tanpa deskripsi
