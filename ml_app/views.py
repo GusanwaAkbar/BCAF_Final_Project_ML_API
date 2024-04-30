@@ -38,7 +38,7 @@ def predict_csv(request):
 
 
         # Example datasetpyth_texts
-        dataset_texts = ["shf", "settlement", "fidusia", "pinalty", "umk"]
+        dataset_texts = ["SHF", "Settlement", "Fidusia", "Pinalty", "UMK"]
 
         
         # Preprocess the data
@@ -103,7 +103,7 @@ def predict_single_data(request):
         ml_app = apps.get_app_config('ml_app')
         model = ml_app.model
 
-        dataset_texts = ["shf", "settlement", "fidusia", "pinalty", "umk"]
+        dataset_texts = ["SHF", "Settlement", "Fidusia", "Pinalty", "UMK"]
 
         label_encoder = joblib.load('label_encoder.pkl')
 
